@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@citoyasha/yt-search": "^1.0.1",
+    "axios": "^1.5.0",
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "google-auth-library": "^9.0.0",
+    "jsonwebtoken": "^9.0.1",
+    "pg": "^8.11.3",
+    "sequelize": "^6.32.1"
+  },
+  "name": "server-yusuf",
+  "description": "[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11650472&assignment_repo_type=AssignmentRepo)\r # fsjs-p2-v2-iproject-server\r Individual Project - Server",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
